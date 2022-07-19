@@ -1,0 +1,30 @@
+.data{
+    height: 350px;
+    width: 50%;
+    float: left;
+    margin-left: 340px;
+    background-color: lightgreen;
+    font-family:'Courier New', Courier, monospace;
+    align-content: center;
+    border: 5px solid;
+    border-color: blue;
+}
+.judul{
+    width: 50%;
+    float: left;
+    margin-left: 340px;
+    background-color: lightslategray;
+    border: 5px solid;
+    border-color: red;
+}
+.menu{
+    width: 50%;
+    height: 350px;
+    float: left;
+    margin-left: 340px;
+    background-color: lightseagreen;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    border: 5px solid;
+    border-color: red;
+}
